@@ -1,11 +1,11 @@
 # Anaglifos 3D con R
-# www.datosimagensonido.com
+# www.overfitting.net
 
 library(png)
-Gamma=2  # CompensaciÛn gamma canal R (1=sin compensaciÛn)
+Gamma=2  # Compensaci√≥n gamma canal R (1=sin compensaci√≥n)
 
 
-# Leemos im·genes izquierda y derecha
+# Leemos im√°genes izquierda y derecha
 izq=readPNG("izq.png")
 der=readPNG("der.png")
 
