@@ -1,5 +1,6 @@
 # Anaglifos 3D con R
 # www.overfitting.net
+# https://www.overfitting.net/2018/05/anaglifos-3d-con-r.html
 
 library(png)
 Gamma=2  # Compensación gamma canal R (1=sin compensación)
